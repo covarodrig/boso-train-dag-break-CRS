@@ -1,0 +1,14 @@
+# Airflow / logs
+logs/
+__pycache__/
+*.pyc
+
+# Env
+.env
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# Docker
+postgres-db-volume/

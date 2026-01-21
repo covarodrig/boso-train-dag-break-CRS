@@ -1,0 +1,4 @@
+{
+  "futurama_api_url": "https://api.sampleapis.com/futurama/characters",
+  "futurama_base_dir": "/tmp/data_api_bad"
+}
